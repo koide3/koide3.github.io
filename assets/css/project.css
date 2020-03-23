@@ -1,0 +1,76 @@
+
+/* -------------------------------------------------- */
+/* Core */
+/* -------------------------------------------------- */
+
+body {
+    padding-top: 70px;
+}
+
+.container {
+	max-width: 970px;
+}
+
+/* -------------------------------------------------- */
+/* Profile */
+/* -------------------------------------------------- */
+
+/*#profile {
+  text-align: center;
+  padding: 30px 10px;
+  position: relative;
+}*/
+
+/*#profile .portrait-title, h2 {
+  font-size: 1.75em;
+  font-weight: 300;
+  color: #000000;
+  margin: 20px 0 10px 0;
+}*/
+
+/*#profile .portrait-title h3 {
+  font-size: 1.13em;
+  font-weight: 300;
+  color: #AAAAAA;
+  margin: 0px 0 10px 0;
+}
+*/
+
+/* -------------------------------------------------- */
+/* Profile */
+/* -------------------------------------------------- */
+
+#news th {
+	text-align: right;
+	width: 100px;
+}
+
+/* -------------------------------------------------- */
+/* Publications */
+/* -------------------------------------------------- */
+
+#publications .project-representative-image {
+	width: 130px;
+	height: 130px;
+}
+
+#publications ul {
+  margin-left: 30px;
+}
+
+/* -------------------------------------------------- */
+/* Projects */
+/* -------------------------------------------------- */
+
+#project_title {
+  text-align: center;
+}
+
+/* -------------------------------------------------- */
+/* Contact */
+/* -------------------------------------------------- */
+
+#contact th {
+	text-align: right;
+	width: 100px;
+}
